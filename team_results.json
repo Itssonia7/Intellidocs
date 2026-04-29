@@ -1,0 +1,181 @@
+[
+    {
+        "id": "PUB-01",
+        "retrieved_standards": [
+            "IS 269:1989"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "['IS 269:1989 Specification for 33 grade ordinary Portland cement. This is the primary standard that covers the manufacture, chemical, and physical requirements for your specific product.']",
+                "extras": {
+                    "signature": "EjQKMgEMOdbH+OS3R0RlKEGvqK2n+rRZBDUxVBP591ZVs/Z5R9b9dHuVRNZ1EP0AW+Lza+KV"
+                }
+            }
+        ],
+        "latency_seconds": 17.185
+    },
+    {
+        "id": "PUB-02",
+        "retrieved_standards": [
+            "IS 2386:1963",
+            "IS 383:1970"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "Based on the provided context, here are the relevant Indian Standards for coarse and fine aggregates used in structural concrete:\n\n*   ['IS 383:1970 Specification for coarse and fine aggregates from natural sources for concrete. Essential for defining the quality, physical properties, and limits of deleterious materials for aggregates used in structural concrete.']\n*   ['IS 2386:1963 Methods of test for aggregates for concrete. Essential for conducting mandatory tests on particle size, shape, and estimation of deleterious materials and organic impurities.']",
+                "extras": {
+                    "signature": "EjQKMgEMOdbHoCa4NWPT/kUQntsyh6vln5m3rLTohqahZmcdNgOCjV1nc5bbKQxOc7z9w+rQ"
+                }
+            }
+        ],
+        "latency_seconds": 23.513
+    },
+    {
+        "id": "PUB-03",
+        "retrieved_standards": [
+            "IS 458",
+            "IS 3597"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "['IS 458 : 2003: Specification for precast concrete pipes (with and without reinforcement). This is the primary standard for manufacturing precast cement concrete pipes used for water mains, sewers, culverts, and irrigation.', 'IS 3597 : 1998: Methods of test for concrete pipes. This standard is essential for conducting the mandatory hydrostatic pressure, three-edge bearing, and absorption tests required for precast concrete pipes.']",
+                "extras": {
+                    "signature": "EjQKMgEMOdbH2xzzhFEk6JwgmhsnQs6/ulufsQ+0gjvQLIume3eXlhdXwi7RfHAJUbVffYSE"
+                }
+            }
+        ],
+        "latency_seconds": 34.848
+    },
+    {
+        "id": "PUB-04",
+        "retrieved_standards": [
+            "IS 2185"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "['IS 2185 (PART 1) : 1979: Specification for hollow and solid concrete blocks. Defines classification, physical requirements (density, compressive strength, water absorption, drying shrinkage), and tolerances for concrete masonry units.', 'SP 21 : 2005: Provides comprehensive specifications for lightweight concrete masonry building units, including dimensions, tolerances, and physical requirements for both load-bearing and non-load-bearing hollow and solid blocks.', 'IS 2185 (PART 2) : 1983: Specifically covers the requirements for hollow and solid lightweight concrete blocks, including methods of tests and material specifications.']",
+                "extras": {
+                    "signature": "EjQKMgEMOdbHIzEPqFJnP0LMSl2iP2nsoTpm2MVULsNmb/GeBKSjQEMQXFUPlzGT1XJ5b8L1"
+                }
+            }
+        ],
+        "latency_seconds": 16.691
+    },
+    {
+        "id": "PUB-05",
+        "retrieved_standards": [
+            "IS 13008:1990",
+            "IS 459",
+            "IS 459:1992",
+            "IS 5913:2003"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "[\n  \"IS 459:1992 Specification for corrugated and semi-corrugated asbestos cement sheets. This is the primary standard detailing the requirements, dimensions, and tolerances for corrugated and semi-corrugated asbestos cement sheets used for roofing and cladding.\",\n  \"IS 5913:2003 Methods of tests for asbestos cement products. This standard is essential as it provides the mandatory testing procedures required to verify the characteristics of the asbestos cement sheets mentioned in IS 459.\",\n  \"IS 13008:1990 Specification for shallow corrugated asbestos cement sheets. This standard provides specific requirements for shallow corrugated variants, including impermeability and finish criteria.\"\n]",
+                "extras": {
+                    "signature": "EjQKMgEMOdbHKExnDX+ggXIQ3pxLsMGBkeFmHnNPivgd0m1ahiPoTDsdjXF/bs+o6m0m2tTO"
+                }
+            }
+        ],
+        "latency_seconds": 15.26
+    },
+    {
+        "id": "PUB-06",
+        "retrieved_standards": [
+            "IS 12423:1988",
+            "IS 4031",
+            "IS 455:1989",
+            "IS 4032:1985",
+            "IS 12089:1987"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "[\n  \"IS 455:1989: Specification for Portland slag cement. Covers the manufacture, chemical, and physical requirements for this cement type.\",\n  \"IS 4031: Methods of physical tests for hydraulic cement. Referenced as the standard for conducting physical testing of cement.\",\n  \"IS 4032:1985: Chemical analysis of hydraulic cement. Referenced as the standard for conducting chemical analysis of cement.\",\n  \"IS 12089:1987: Granulated slag for manufacture of Portland slag Cement. Identified as the suitable material for the production of Portland slag cement.\",\n  \"IS 12423:1988: Method for colorimetric analysis of hydraulic cement. Referenced for the determination of chloride content in cement.\"\n]",
+                "extras": {
+                    "signature": "EjQKMgEMOdbHkNV81RmY3TEyOjEoBqc5jELff3Rx2y+veG/U7n/zh+gbNxoOZDU+sE2zrdAL"
+                }
+            }
+        ],
+        "latency_seconds": 13.003
+    },
+    {
+        "id": "PUB-07",
+        "retrieved_standards": [
+            "IS 4032",
+            "IS 4031",
+            "IS 1344",
+            "IS 1489"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "Based on the provided context, here are the relevant Indian Standards for setting up a plant to produce calcined clay-based Portland pozzolana cement:\n\n['IS 1489 (PART 2): 1991: Specification for Portland pozzolana cement (calcined clay based). This is the primary standard governing the manufacture, physical, and chemical requirements for this specific product.', 'IS 1344: 1981: Specification for calcined clay pozzolana. This standard is referenced as the mandatory requirement for the raw material (pozzolana) used in the production process.', 'IS 4031: Method of physical tests of hydraulic cement. Essential for conducting the mandatory physical testing required for cement compliance.', 'IS 4032: 1985: Methods of chemical analysis of hydraulic cement. Essential for conducting the mandatory chemical analysis required for cement compliance.']",
+                "extras": {
+                    "signature": "EjQKMgEMOdbHTQ0pPC3hHj9TJtowusW0xPMxzxujkETROG4LcyjJhUnbpXjnQEl4LSwuz/tk"
+                }
+            }
+        ],
+        "latency_seconds": 20.248
+    },
+    {
+        "id": "PUB-08",
+        "retrieved_standards": [
+            "IS 4031",
+            "IS 1489",
+            "IS 2116:1980",
+            "IS 2185",
+            "IS 4032"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "['IS 4031: Method of physical tests of hydraulic cement. Essential for evaluating the physical properties of cement used in construction.', 'IS 4032: 1985 Methods of Chemical analysis of hydraulic cement. Necessary for determining the chemical composition of cement.', 'IS 1489(Part 2):1991: Specification for Portland pozzolana cement Part 2 calcined clay based. Provides detailed specifications for this specific type of cement.', 'IS 2116:1980: Specification for sand for masonry mortars. Essential for defining the quality and requirements of sand used in masonry mortars.', 'IS 2185 (Part 2) 1983: Specification for concrete masonry units: Part 2 Hollow and solid lightweight concrete blocks. Provides requirements for concrete masonry building units.']",
+                "extras": {
+                    "signature": "EjQKMgEMOdbHBqYA4lWH7hQKR0PKEQT5Bgwymsvuh+53fmZmbLyABdafXSG3w29iUqh8wITn"
+                }
+            }
+        ],
+        "latency_seconds": 13.748
+    },
+    {
+        "id": "PUB-09",
+        "retrieved_standards": [
+            "IS 6909:1990",
+            "IS 4031",
+            "IS 4032:1985"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "['IS 6909:1990 Specification for supersulphated cement. Details the composition, manufacture, and testing of supersulphated cement suitable for aggressive conditions like marine works.', 'IS 4031: Methods of physical tests for hydraulic cement. Essential for conducting the physical testing requirements of supersulphated cement.', 'IS 4032:1985 Method of chemical analysis of hydraulic cement. Essential for conducting the chemical analysis requirements of supersulphated cement.']",
+                "extras": {
+                    "signature": "EjQKMgEMOdbHItrgFkh8uZjIXJE3BnQTQ6WYnWQapJw0HtZ6v+eYGZYweOY9TMO9wYHC7jK3"
+                }
+            }
+        ],
+        "latency_seconds": 42.096
+    },
+    {
+        "id": "PUB-10",
+        "retrieved_standards": [
+            "IS 4032:1985",
+            "IS 8042:1989"
+        ],
+        "rationale": [
+            {
+                "type": "text",
+                "text": "['IS 8042:1989: Specification for White Portland Cement. Governs the chemical, physical, and whiteness requirements for white Portland cement used in architectural and decorative purposes.', 'IS 4032:1985: Methods of chemical analysis of hydraulic cement. Referenced as the standard for testing chemical requirements of cement.']",
+                "extras": {
+                    "signature": "EjQKMgEMOdbHRpuTwfrZi45KfZ8jHC/9ii1ep4y5NyMU8rBBjYlIXJ+ASqfk94rTF7ViGAZJ"
+                }
+            }
+        ],
+        "latency_seconds": 36.139
+    }
+]
